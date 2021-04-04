@@ -1,0 +1,39 @@
+img{
+  margin:auto;
+  max-width:100%;
+  display:block;
+  height:auto;
+}
+
+#title, #img-caption{
+  text-align:center;
+  font-family:"Papyrus";
+  font-weight:bold;
+}
+#img-caption{
+  font-size:18px;
+}
+
+body{
+  font-family:"Georgia";
+  background: linear-gradient(45deg,pink,white);
+}
+
+p{
+  text-align:left;
+  font-style:italic;
+}
+
+#tribute-info{
+  width:85%;
+  margin: 5px auto;
+}
+ul {
+    list-style: none;
+    padding: 5px 0;    
+}
+
+li {
+    margin: 15px auto;
+}
+
